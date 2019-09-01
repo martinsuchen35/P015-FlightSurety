@@ -1,5 +1,6 @@
-var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat";
+let HDWalletProvider = require("truffle-hdwallet-provider");
+let mnemonic = "dizzy baby cloud basic grace where volume damage clerk action observe what";  // Mac Pro
+//let mnemonic = "plunge actress custom salon logic patch frown cable dumb gravity satisfy give";  // Mac Mini
 
 module.exports = {
     networks: {
